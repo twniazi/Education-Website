@@ -1,12 +1,51 @@
-# React + Vite
+**# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🎓 Education Website
 
-Currently, two official plugins are available:
+A modern and responsive education platform built using React and Tailwind CSS. This project provides a clean UI and smooth user experience for showcasing courses and educational content.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Live Demo
 
-## Expanding the ESLint configuration
+👉 https://your-website-link.vercel.app
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📸 Screenshots
+### 🏠 Home Page
+![Home](public/screenshots/Home page.png)
+
+### 📚 About  Section
+![About](public/screenshots/About.png)
+
+### 📱 Education
+![Education](public/screenshots/Education.png)
+
+### 📱 Pricing plan
+![Pricing plan](public/screenshots/Pricing plan.png)
+
+✨ Features
+*Fully responsive design (Mobile + Desktop)
+*Modern UI with Tailwind CSS
+*Reusable React components
+*Fast performance with Vite
+*Clean and structured code
+
+
+🛠️ Tech Stack
+*React JS
+*Tailwind CSS
+*JavaScript (ES6+)
+*Vite
+
+⚙️ Installation & Setup
+git clone https://github.com/your-username/education-website.git
+cd education-website
+npm install
+npm run dev
+📦 Build for Production
+npm run build
+
+🙌 Author
+Tanzeel Khan
+GitHub: https://github.com/twniazi
+⭐ Support
+
+If you like this project, give it a ⭐ on GitHub!
