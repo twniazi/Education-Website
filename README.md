@@ -4,9 +4,11 @@
 
 A modern and responsive education platform built using React and Tailwind CSS. This project provides a clean UI and smooth user experience for showcasing courses and educational content.
 
-🚀 Live Demo
+## 🌐 Live Project
 
-👉 https://your-website-link.vercel.app
+👉 Click here to view the live website:  
+🔗 [education-website](https://vercel.com/twniazis-projects/education_website)
+
 
 📸 Screenshots
 ### 🏠 Home Page
