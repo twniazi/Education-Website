@@ -10,7 +10,7 @@ A modern and responsive education platform built using React and Tailwind CSS. T
 
 📸 Screenshots
 ### 🏠 Home Page
-![Home](public/screenshots/Home page.png)
+![Home](public/screenshots/Home Page.png)
 
 ### 📚 About  Section
 ![About](public/screenshots/About.png)
