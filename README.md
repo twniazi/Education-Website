@@ -43,9 +43,11 @@ npm run dev
 📦 Build for Production
 npm run build
 
+
 🙌 Author
 Tanzeel Khan
 GitHub: https://github.com/twniazi
+
 ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
